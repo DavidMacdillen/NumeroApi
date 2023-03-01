@@ -1,0 +1,7 @@
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.csproj.AssemblyReference.cache
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.AssemblyInfoInputs.cache
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.AssemblyInfo.cs
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Documents\David\Trabalho\Api\ListApi\AlunoApi\obj\Debug\net6.0\AlunoApi.MvcApplicationPartsAssemblyInfo.cache
